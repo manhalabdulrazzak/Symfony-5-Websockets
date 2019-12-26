@@ -3,7 +3,7 @@
 ###### Symfony 5 Websockets Example chat app testing !
 
 
-thanks to @leorojas22 for the tutorial 
+
 
 ##### To install it, type the following in your terminal:
 
@@ -65,4 +65,6 @@ Type the following to install those:
 
 raed here for more : 
 https://rojas.io/symfony-5-websockets-tutorial/
+
+thanks to https://github.com/leorojas22 for the tutorial 
 
