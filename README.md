@@ -3,7 +3,7 @@
 ###### Symfony 5 Websockets Example chat app testing !
 
 
-
+thanks to @leorojas22 for the tutorial 
 
 ##### To install it, type the following in your terminal:
 
